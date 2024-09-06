@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saumya - Medical Data Analyst & Dentist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2C3E50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2980B9;
+        }
+        p, ul {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2C3E50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #2980B9;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Saumya - Medical Data Analyst & Dentist</h1>
+</header>
+
+<section>
+    <h1>About Me</h1>
+    <p>Hi! I am Saumya, currently working as a Medical Data Analyst. I have completed my Bachelor of Dental Surgery (BDS) from Government Dental College and Hospital. In addition to my dental background, I have transitioned into health informatics and data analysis, bringing my skills and passion into this dynamic field.</p>
+
+    <h1>Certifications</h1>
+    <p>I completed a certified course on 3D Design and Printing, organized by Dassault Foundation in association with the School of Mechanical Engineering, MIT WPU. This course has enhanced my understanding of CAD/CAM, providing hands-on experience in designing prostheses and understanding 3D workflows in healthcare.</p>
+
+    <h1>Skills</h1>
+    <ul>
+        <li>AutoCAD</li>
+        <li>Fusion 360</li>
+        <li>Python</li>
+        <li>MS Excel</li>
+        <li>MS PowerPoint</li>
+    </ul>
+
+    <h1>Professional Bio</h1>
+    <p>As a dentist transitioning into the realm of health informatics, I have relished 2 years of treating and communicating with patients. I enjoy solving problems and exploring new things. One such exploration landed me a job as a Medical Data Analyst, where I witnessed the profound impact of data-driven healthcare solutions on improving patient outcomes and healthcare delivery. I have been part of some of the most amazing projects in my company where I navigated through multiple EMRs such as eClinicalWorks, Epic, Athena, and Urochart, and various database management systems.</p>
+
+    <h1>Research & Publications</h1>
+    <p>In addition to my professional pursuits, I have a keen interest in research work. I have authored and co-authored several research papers in the fields of Dentistry, such as Oral Pathology and Paediatric Dentistry. Additionally, I have authored and co-authored numerous articles for <em>Dental Tribune Magazine (Southeast Asia)</em>, highlighting my interest in AI and ML in healthcare. My active participation in numerous paper and poster presentation competitions at scientific conventions and seminars reflects my commitment to exchanging innovative ideas in the field.</p>
+
+    <h1>Contact</h1>
+    <p>If you'd like to get in touch with me, feel free to drop an email at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Saumya. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
